@@ -1,0 +1,1 @@
+{"version":3,"file":"askable.directive.d.ts","sourceRoot":"","sources":["../src/askable.directive.ts"],"names":[],"mappings":";AAEA,qBAIa,gBAAgB;IACT,IAAI,EAAE,MAAM,GAAG,MAAM,CAAC,MAAM,EAAE,OAAO,CAAC,CAAM;IACvC,KAAK,EAAE,MAAM,GAAG,SAAS,CAAC;IAEjD,IACI,WAAW,IAAI,MAAM,CAGxB;IAED,IACI,gBAAgB,IAAI,MAAM,GAAG,SAAS,CAEzC;yCAbU,gBAAgB;2CAAhB,gBAAgB;CAc5B"}
